@@ -315,7 +315,7 @@ const Puzzle = () => {
           <Form noValidate autoComplete='off'>
             <Box sx={{padding: '40px 0px 20px 0px'}}>
               <Box
-                fontSize={20}
+                fontSize={30}
                 marginBottom={2}
                 fontWeight={'bold'}>
                 Puzzle Game
